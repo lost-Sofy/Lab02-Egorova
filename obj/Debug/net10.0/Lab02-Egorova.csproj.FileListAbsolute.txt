@@ -1,0 +1,14 @@
+C:\Users\NSX19\Project\Lab02-Egorova\obj\Debug\net10.0\Lab02-Egorova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NSX19\Project\Lab02-Egorova\obj\Debug\net10.0\Lab02-Egorova.AssemblyInfoInputs.cache
+C:\Users\NSX19\Project\Lab02-Egorova\obj\Debug\net10.0\Lab02-Egorova.AssemblyInfo.cs
+C:\Users\NSX19\Project\Lab02-Egorova\obj\Debug\net10.0\Lab02-Egorova.csproj.CoreCompileInputs.cache
+C:\Users\NSX19\Project\Lab02-Egorova\bin\Debug\net10.0\Lab02-Egorova.exe
+C:\Users\NSX19\Project\Lab02-Egorova\bin\Debug\net10.0\Lab02-Egorova.deps.json
+C:\Users\NSX19\Project\Lab02-Egorova\bin\Debug\net10.0\Lab02-Egorova.runtimeconfig.json
+C:\Users\NSX19\Project\Lab02-Egorova\bin\Debug\net10.0\Lab02-Egorova.dll
+C:\Users\NSX19\Project\Lab02-Egorova\bin\Debug\net10.0\Lab02-Egorova.pdb
+C:\Users\NSX19\Project\Lab02-Egorova\obj\Debug\net10.0\Lab02-Egorova.dll
+C:\Users\NSX19\Project\Lab02-Egorova\obj\Debug\net10.0\refint\Lab02-Egorova.dll
+C:\Users\NSX19\Project\Lab02-Egorova\obj\Debug\net10.0\Lab02-Egorova.pdb
+C:\Users\NSX19\Project\Lab02-Egorova\obj\Debug\net10.0\Lab02-Egorova.genruntimeconfig.cache
+C:\Users\NSX19\Project\Lab02-Egorova\obj\Debug\net10.0\ref\Lab02-Egorova.dll
