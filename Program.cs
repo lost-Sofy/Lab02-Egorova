@@ -1,17 +1,38 @@
-﻿Console.WriteLine("Границы целочисленных типов");
-Console.WriteLine($"byte: {byte.MinValue} .. {byte.MaxValue}");
-Console.WriteLine($"short: {short.MinValue} .. {short.MaxValue}");
-Console.WriteLine($"int: {int.MinValue} .. {int.MaxValue}");
-Console.WriteLine($"long: {long.MinValue} .. {long.MaxValue}");
+﻿// Console.WriteLine("Границы целочисленных типов");
+// Console.WriteLine($"byte: {byte.MinValue} .. {byte.MaxValue}");
+// Console.WriteLine($"short: {short.MinValue} .. {short.MaxValue}");
+// Console.WriteLine($"int: {int.MinValue} .. {int.MaxValue}");
+// Console.WriteLine($"long: {long.MinValue} .. {long.MaxValue}");
+
+// Console.WriteLine();
+// Console.WriteLine("Граница дробных типов");
+// Console.WriteLine($"float: {float.MinValue} .. {float.MaxValue}");
+// Console.WriteLine($"double: {double.MinValue} .. {double.MaxValue}");
+
+// Console.WriteLine();
+// Console.WriteLine("Переполнение byte");
+
+// byte maxByte = 255;
+// byte overFlowed = (byte)(maxByte + 1);
+// Console.WriteLine($"255 + 1 для byte = {overFlowed}");
 
 Console.WriteLine();
-Console.WriteLine("Граница дробных типов");
-Console.WriteLine($"float: {float.MinValue} .. {float.MaxValue}");
-Console.WriteLine($"double: {double.MinValue} .. {double.MaxValue}");
+Console.WriteLine("char");
+
+char firstLetter = 'A';
+char separator = '-';
+int charAsNumber = firstLetter;
+
+Console.WriteLine($"Символ: {firstLetter}, разделитель: {separator}");
+Console.WriteLine($"Код символа '{firstLetter}' в Unicode: {charAsNumber}");
+Console.WriteLine($"Табуляция:\tпосле таба");
+Console.WriteLine($"Перенос:\nпосле переноса");
 
 Console.WriteLine();
-Console.WriteLine("Переполнение byte");
+Console.WriteLine("decimal против double");
 
-byte maxByte = 255;
-byte overFlowed = (byte)(maxByte + 1);
-Console.WriteLine($"255 + 1 для byte = {overFlowed}");
+double priceDouble = 0.1 + 0.2;
+decimal priceDecimal = 0.1m + 0.2m;
+
+Console.WriteLine($"double: 0.1 + 0.2 = {priceDouble}");
+Console.WriteLine($"decimal: 0.1 + 0.2 = {priceDecimal}");

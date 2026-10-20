@@ -12,3 +12,4 @@ C:\Users\NSX19\Project\Lab02-Egorova\obj\Debug\net10.0\refint\Lab02-Egorova.dll
 C:\Users\NSX19\Project\Lab02-Egorova\obj\Debug\net10.0\Lab02-Egorova.pdb
 C:\Users\NSX19\Project\Lab02-Egorova\obj\Debug\net10.0\Lab02-Egorova.genruntimeconfig.cache
 C:\Users\NSX19\Project\Lab02-Egorova\obj\Debug\net10.0\ref\Lab02-Egorova.dll
+C:\Users\NSX19\Project\Lab02-Egorova\obj\Debug\net10.0\Lab02-Egorova.sourcelink.json
